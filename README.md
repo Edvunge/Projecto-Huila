@@ -6,7 +6,7 @@ Projecto Huila é um projecto final da ufcd do curso de programação web (clien
 
 
 com o objectivo de criar um site usando: HTML5 & CSS3 e implementei tambem
-PHP e JAVASCRIPT 
+JAVASCRIPT 
 
 # Cinel
 
@@ -31,4 +31,4 @@ Ter em atenção as cores a utilizar e as mesmas serem uniformes ao longo do sit
 O projeto deve ser entregue na última aula da UFCD. 
 
 
-topicos adionais, 3 paginas interligadas por php.
+

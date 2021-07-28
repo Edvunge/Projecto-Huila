@@ -10,3 +10,24 @@ body {
 #footer{
     background-color: linear-gradient(to bottom, #003366 0%, #3333ff 100%); 
 }
+
+div.polaroid {
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+  }
+  
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+  .topleft {
+position: absolute;
+top: 8px;
+left: 16px;
+font-size: 18px;
+}
+
+

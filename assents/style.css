@@ -31,3 +31,9 @@ font-size: 18px;
 }
 
 
+/*---------- teste galeria -----------*/
+
+h1 {font-family: "Montserrat", sans-serif}
+#imagem{margin-bottom: -7px}
+.w3-row-padding imagem {margin-bottom: 12px}
+#imagem{width: 100%;}
